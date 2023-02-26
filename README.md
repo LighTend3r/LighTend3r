@@ -11,6 +11,18 @@
 - 🚩 CTF Player
 <br>
 <p>
+<h2 align="center"> My self-training links</h2>
+</p>
+
+<strong>Root-Me (4065 pts)</strong> <br>
+https://www.root-me.org/LighTender
+<br>
+<strong>CodinGame</strong> <br>
+[https://www.codingame.com/profile/LighTender](https://www.codingame.com/profile/31e689997908873a9d630f4f5344c6346508783)
+<br>
+<strong>TryHackMe</strong> <br>
+https://tryhackme.com/p/LighTender
+<p>
 <h2 align="center"> Languages and Tools</h2>
 </p>
 <br />
