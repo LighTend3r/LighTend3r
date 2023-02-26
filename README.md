@@ -6,9 +6,9 @@
 
 
 <p>
-- 📚 I'm an student at IUT Grand Ouest Normandie, Campus 3
-- 📌 Currently in application development
-- 🔒 Interested in Cyber Security Research
+- 📚 I'm an student at IUT Grand Ouest Normandie, Campus 3 <br />
+- 📌 Currently in application development <br />
+- 🔒 Interested in Cyber Security Research <br />
 - 🚩 CTF Player
 </p>
 
