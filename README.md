@@ -2,8 +2,11 @@
     <h1 align="center">👋 Hi there, I'm Thomas !</h1>
 </p>
 
-<h2 align="center">About me 😇</h2>
+<p>
+Hello, my name is Thomas Fedorawiez and I am passionate about technology. Cybersecurity and development are my two favorite fields. I love learning new things and am constantly seeking out new challenges to improve my knowledge. My enthusiasm and endless curiosity are valuable assets for any technological project. I believe that my skills in cybersecurity and development can make a significant contribution to technology security and innovation.
+</p>
 
+<h2 align="center">About me 😇</h2>
 
 <p>
 - 📚 I'm an student at IUT Grand Ouest Normandie, Campus 3 <br />
