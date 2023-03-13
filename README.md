@@ -40,16 +40,19 @@ https://tryhackme.com/p/LighTender
 <a href="https://www.python.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png?20061227215918" alt="python" width="40" height="60"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png?20061227215918" alt="java" width="40" height="60"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/87587438/221409649-6219a8e7-dcbb-411f-bf66-7e52d7c89551.png" alt="python" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/87587438/221409649-6219a8e7-dcbb-411f-bf66-7e52d7c89551.png" alt="JS" width="40" height="40"/> 
 </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="python" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> 
+</a>
+<a href="https://www.php.net/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/87587438/224856711-cc7dae31-e4ad-4136-97af-f0644d13b2cf.png" alt="php" width="60" height="40"/> 
 </a>
 <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" alt="python" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" alt="git" width="40" height="40"/> 
 </a>
 </p>
 
