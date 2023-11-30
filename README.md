@@ -22,7 +22,7 @@ Hello, my name is Thomas and I am passionate about technology. Cybersecurity and
 <br />
 
 
-<strong>Root-Me (4065 pts)</strong> <br>
+<strong>Root-Me (5430 pts)</strong> <br>
 https://www.root-me.org/LighTender
 <br>
 <strong>CodinGame</strong> <br>
