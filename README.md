@@ -6,6 +6,8 @@
 Hello, my name is Thomas and I am passionate about technology. Cybersecurity and development are my two favorite fields. I love learning new things and am constantly seeking out new challenges to improve my knowledge. My enthusiasm and endless curiosity are valuable assets for any technological project. I believe that my skills in cybersecurity and development can make a significant contribution to technology security and innovation.
 </p>
 
+<p>My blog : https://blog.lightender.fr/</p>
+
 <h2 align="center">About me 😇</h2>
 
 <p>
