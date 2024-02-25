@@ -32,7 +32,13 @@ https://www.root-me.org/LighTender
 <br>
 <strong>TryHackMe</strong> <br>
 https://tryhackme.com/p/LighTender
+
 <p>
+<h2 align="center">Root-me Stat<h2>
+
+<img src="https://root-me-diff.vercel.app/rm-gh?nickname=LighTender&gstats=show" width="400" />
+
+
 <h2 align="center"> Languages and Tools</h2>
 </p>
 
@@ -58,6 +64,8 @@ https://tryhackme.com/p/LighTender
 </a>
 </p>
 
+
+
 <p>
 <h2 align="center">GitHub Stats<h2>
 </p>
@@ -67,3 +75,4 @@ https://tryhackme.com/p/LighTender
 <img src="https://github-readme-stats.vercel.app/api?username=LighTend3r&theme=radical&show_icons=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LighTend3r&layout=compact&theme=radical" width="400" />
 </p>
+
