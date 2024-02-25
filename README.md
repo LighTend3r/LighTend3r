@@ -37,7 +37,7 @@ https://tryhackme.com/p/LighTender
 <h2 align="center">Root-me Stat<h2>
 <p align="center">
     <a href="https://www.root-me.org/LighTender" target="_blank"> 
-        <img src="https://root-me-diff.vercel.app/rm-gh?nickname=LighTender&gstats=show" width="400" />
+        <img src="https://root-me-diff.vercel.app/rm-gh?nickname=LighTender&gstats=show&style=dark" width="400" />
     </a>
 </p>
 
